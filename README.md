@@ -19,3 +19,4 @@ Do-what-it-says uses the command and query from the random.txt file and runs the
 
 Used: JavaScript, Node.js, and NPM
 APIs: Spotify, Bands In Town, and OMDB
+![screenshot 17](https://user-images.githubusercontent.com/40703719/46912039-ea8d1480-cf39-11e8-8a8d-2154751b3c7f.png)
