@@ -21,3 +21,5 @@ Used: JavaScript, Node.js, and NPM
 APIs: Spotify, Bands In Town, and OMDB
 ![screenshot 17](https://user-images.githubusercontent.com/40703719/46912039-ea8d1480-cf39-11e8-8a8d-2154751b3c7f.png)
 ![screenshot 18](https://user-images.githubusercontent.com/40703719/46912045-21632a80-cf3a-11e8-8336-e83df8bc37cd.png)
+![screenshot 19](https://user-images.githubusercontent.com/40703719/46912048-3d66cc00-cf3a-11e8-81a7-de580537dce0.png)
+![screenshot 20](https://user-images.githubusercontent.com/40703719/46912049-422b8000-cf3a-11e8-9252-b62e0d85a9a1.png)
